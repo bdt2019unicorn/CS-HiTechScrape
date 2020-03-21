@@ -12,3 +12,17 @@ C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\System.Xml.XPath.Xm
 C:\Users\OEM\Desktop\CS-HiTechScrape\obj\Debug\netcoreapp3.1\CS-HiTechScrape.csproj.CopyComplete
 C:\Users\OEM\Desktop\CS-HiTechScrape\obj\Debug\netcoreapp3.1\CS-HiTechScrape.dll
 C:\Users\OEM\Desktop\CS-HiTechScrape\obj\Debug\netcoreapp3.1\CS-HiTechScrape.pdb
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\OEM\Desktop\CS-HiTechScrape\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll

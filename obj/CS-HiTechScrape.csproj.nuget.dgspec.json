@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.94.2, )"
+            },
             "HtmlAgilityPack": {
               "target": "Package",
               "version": "[1.11.22, )"

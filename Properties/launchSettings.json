@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CS-HiTechScrape": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

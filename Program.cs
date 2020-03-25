@@ -177,7 +177,9 @@ namespace CS_HiTechScrape
 
             DataTable all_companies_table = CompanyLinkTable(all_companies);
             ExportToExcel(all_companies_table);
-            System.Diagnostics.Debug.WriteLine("The code has been done, please check it now"); 
+            System.Diagnostics.Debug.WriteLine("The code has been done, please check it now");
+
+            Console.WriteLine("The code has been done, press any key to completer"); 
 
             Console.ReadLine(); 
         }
